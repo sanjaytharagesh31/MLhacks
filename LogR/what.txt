@@ -1,0 +1,1 @@
+classification of diffrent types of iris by multiclass classification using logistic regression.
