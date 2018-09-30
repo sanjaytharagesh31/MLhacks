@@ -1,0 +1,5 @@
+1. Download Kaggle digit recognizer dataset from 'https://www.kaggle.com/c/digit-recognizer'
+2. Place the files in same directory of 'main.py'
+3. run 'python main.py' from terminal
+
+validation accuracy: 98.98
