@@ -2,6 +2,6 @@
 
 sample Ml Algos
 
-1)LR - Linear Regression
-2)LogR - Logistic regression
-CNN - Convolutional NN for digit recognization
+* [LR](LR)- Linear Regression.
+* [LogR](LogR) - Logistic regression.
+* [CNN](CNN)- Convolutional NN for digit recognization.
