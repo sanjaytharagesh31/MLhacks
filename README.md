@@ -4,7 +4,7 @@ Machine Learning algorithms
 
 * [LR](LR)- Linear Regression.
 * [LogR](LogR) - Logistic regression.
-* [CNN](CNN)- Convolutional NN for digit recognization.
+* [CNN](CNN)- Convolutional Neural Network for hand written digit recognization.
 * [scikit-learn](Scikit) - Classification problem.
 * [MNIST-Neural-Networks](MNIST-Neural-Networks) - Neural Network implementation in Keras for MNIST classification problem.
 ## Performance metrics for classification problem
