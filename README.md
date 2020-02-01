@@ -6,6 +6,7 @@ Machine Learning algorithms
 * [LogR](LogR) - Logistic regression.
 * [CNN](CNN)- Convolutional NN for digit recognization.
 * [scikit-learn](Scikit) - Classification problem.
+* [MNIST-Neural-Networks](MNIST-Neural-Networks) - Neural Network implementation in Keras for MNIST classification problem.
 ## Performance metrics for classification problem
 * [Performance metrics](Performance-metrics) 
   - Accuracy
