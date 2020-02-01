@@ -1,6 +1,6 @@
 # MLhacks
 
-sample Ml Algos
+Machine Learning algorithms 
 
 * [LR](LR)- Linear Regression.
 * [LogR](LogR) - Logistic regression.
