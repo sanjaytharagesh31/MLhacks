@@ -7,6 +7,8 @@ Machine Learning algorithms
 * [CNN](CNN)- Convolutional Neural Network for hand written digit recognization.
 * [scikit-learn](Scikit) - Classification problem.
 * [MNIST-Neural-Networks](MNIST-Neural-Networks) - Neural Network implementation in Keras for MNIST classification problem.
+* [CIFAR10-CNN](CIFAR10) - CNN implementation in Keras for CIFAR10 classification problem.
+
 ## Performance metrics for classification problem
 * [Performance metrics](Performance-metrics) 
   - Accuracy
