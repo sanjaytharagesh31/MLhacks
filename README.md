@@ -8,7 +8,7 @@ Machine Learning algorithms
 * [scikit-learn](Scikit) - Classification problem.
 * [MNIST-Neural-Networks](MNIST-Neural-Networks) - Neural Network implementation in Keras for MNIST classification problem.
 * [CIFAR10-CNN](CIFAR10) - CNN implementation in Keras for CIFAR10 classification problem.
-* [AndrewNg Machine Learning course codes](Machine Learning - AndrewNg Coursera) - Solutions to AndrewNg course from Coursera
+* AndrewNg Machine Learning Coursera - Solutions to AndrewNg course from Coursera.
 
 ## Performance metrics for classification problem
 * [Performance metrics](Performance-metrics) 
